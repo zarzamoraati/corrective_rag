@@ -1,0 +1,15 @@
+gpt4all
+langchain-community 
+langchain
+langgraph
+langchainhub
+tiktoken
+tavily-python
+chromadb
+langchain-google-genai
+langchain-groq 
+python-dotenv
+beautifulsoup4
+fastapi
+pypdf
+
